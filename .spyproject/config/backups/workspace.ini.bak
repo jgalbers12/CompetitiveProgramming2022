@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['exercise1.3.4.6.py', 'exercise1.3.4.10.py', 'cd.py', 'architechture.py', 'staircase.py', 'classTesting.py', 'CowCrane.py', 'CreditCard.py', 'taxes.py', 'disastrous.py', 'sax.py', 'jolly.py', 'memory_match.py', 'rock_paper_scissors.py', 'beep.py', 'train.py', 'vaccine.py', 'firetruck.py', 'baloon.py', 'in_builder.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
